@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+<h1 align="center">Sheikh Resume</h1>
+<p align="center">
+   <img src="https://img.shields.io/badge/language-CSS-blue?style"/>
+   <img src="https://img.shields.io/github/license/Sheikh-Tafsir/Algo-Easy"/>
+   <img src="https://img.shields.io/github/stars/Sheikh-Tafsir/sheikh-resume-css.github.io"/>
+   <img src="https://img.shields.io/github/forks/Sheikh-Tafsir/sheikh-resume-css.github.io"/>
+</p>
 
-You can use the [editor on GitHub](https://github.com/Sheikh-Tafsir/sheikh-resume-css.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Languages & Tools
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-000000?style=flat&logo=Visual%20Studio)<br />
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sheikh-Tafsir/sheikh-resume-css.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Link 
+https://sheikh-tafsir.github.io/sheikh-resume-css.github.io
