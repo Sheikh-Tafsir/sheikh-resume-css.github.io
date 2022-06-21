@@ -4,7 +4,7 @@ body{
 .back{
     display:flex;
     width:34rem;
-    margin: 0 28rem;
+    margin: auto;
 }
 
 /*-------left side--------*/
