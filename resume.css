@@ -3,13 +3,13 @@ body{
 }
 .back{
     display:flex;
-    width:35%;
-    margin: 0 30%;
+    width:34rem;
+    margin: 0 28rem;
 }
 
 /*-------left side--------*/
 .ylw-blk{
-    height:750px;
+    height:47rem;
     width:45%;
 }
 .ylww{
@@ -138,7 +138,7 @@ body{
 
 /*------right side--------*/
 .ylw-wht{
-    height:750px;
+    height:47rem;
     width:55%;
     margin:0;
 }
